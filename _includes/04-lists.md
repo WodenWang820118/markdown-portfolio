@@ -1,4 +1,4 @@
-- *Table Tennis*
+- *Table* Tennis
 - **Writing a book**
-- _Learning to code_
+- _Learning_ to code
 - __Watching movies__
