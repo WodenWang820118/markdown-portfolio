@@ -1,4 +1,4 @@
-Table Tennis
-Writing a book
-Learning to code
-Watching movies
+- Table Tennis
+- Writing a book
+- Learning to code
+- Watching movies
